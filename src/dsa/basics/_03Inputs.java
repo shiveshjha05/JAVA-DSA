@@ -1,4 +1,4 @@
-package dsa._01basics;
+package dsa.basics;
 import java.util.Scanner;
 
 public class _03Inputs {

@@ -1,4 +1,4 @@
-package dsa._01basics;
+package dsa.basics;
 
 public class _02Primitives {
     public static void main(String[] args) {
