@@ -1,4 +1,4 @@
-package dsa.basics;
+package dsa.KKvideo.lec08;
 
 public class _06LoopsBasics {
     public static void main(String[] args) {

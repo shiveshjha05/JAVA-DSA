@@ -1,4 +1,4 @@
-package dsa.basics;
+package dsa.KKvideo.lec08;
 import java.util.Scanner;
 
 public class _03Inputs {
