@@ -44,6 +44,8 @@ public class Q9 {
             }
         }
 
+                   // OR
+
 //        Scanner sc = new Scanner(System.in);
 //
 //        System.out.print("Enter start: ");
