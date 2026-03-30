@@ -4,7 +4,7 @@ package dsa.KKvideo.lec09_assignments.INTERMEDIATE;
 //Math.pow(x, 2) Math.sqrt(x)
 import java.util.Scanner;
 
-public class Q5 {
+public class Q05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the values of x and y coordinates of first point :-  ");

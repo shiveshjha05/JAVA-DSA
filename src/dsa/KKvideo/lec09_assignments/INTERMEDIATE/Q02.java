@@ -4,7 +4,7 @@ package dsa.KKvideo.lec09_assignments.INTERMEDIATE;
 
 import java.util.Scanner;
 
-public class Q2 {
+public class Q02 {
 
     public static void main(String[] args) {
         System.out.print("Enter the amount of units used:- ");
