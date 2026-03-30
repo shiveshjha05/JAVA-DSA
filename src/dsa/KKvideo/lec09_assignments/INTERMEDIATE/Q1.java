@@ -1,5 +1,7 @@
 package dsa.KKvideo.lec09_assignments.INTERMEDIATE;
 
+// Factorial Program In Java
+
 import java.util.Scanner;
 
 public class Q1 {
