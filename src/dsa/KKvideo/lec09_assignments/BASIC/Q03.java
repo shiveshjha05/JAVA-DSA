@@ -4,7 +4,7 @@ package dsa.KKvideo.lec09_assignments.BASIC;
 
 import java.util.Scanner;
 
-public class Q3 {
+public class Q03 {
 
     public static void main(String[] args) {
 

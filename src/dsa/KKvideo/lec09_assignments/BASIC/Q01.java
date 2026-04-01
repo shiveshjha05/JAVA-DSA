@@ -5,7 +5,7 @@ package dsa.KKvideo.lec09_assignments.BASIC;
 
 import java.util.Scanner;
 
-public class Q1 {
+public class Q01 {
     public static void main(String[] args) {
         System.out.print("Enter the length of radius (in cm) :- ");
 
