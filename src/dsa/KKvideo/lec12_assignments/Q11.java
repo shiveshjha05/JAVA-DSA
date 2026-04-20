@@ -1,5 +1,7 @@
 package dsa.KKvideo.lec12_assignments;
 
+// Count Items Matching a Rule
+
 public class Q11 {
     public static void main(String[] args) {
 

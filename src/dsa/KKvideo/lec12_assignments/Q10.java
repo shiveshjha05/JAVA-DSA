@@ -1,5 +1,7 @@
 package dsa.KKvideo.lec12_assignments;
 
+// Check if the Sentence Is Pangram
+
 import java.util.Scanner;
 
 public class Q10 {
